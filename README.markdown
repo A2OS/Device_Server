@@ -13,7 +13,7 @@ Edit cm-build-targets and submit a change to gerrit for review. The
 syntax for that file is documented in its first few lines.
 You can upload your change to gerrit with commands like these:
 
-    git add cm-build-targets
+    git add aos-build-targets
     git commit
     git review
 
