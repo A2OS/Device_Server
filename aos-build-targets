@@ -2,5 +2,5 @@
 # <lunchcombo> <branch> [period: "D"aily, "W"eekly or "M"onthly]
 # Absence of a period indicates Daily (the default)
 
-# Daily AOS5.1
-aos_bacon-userdebug AOS5.1
+# Daily lp5.1
+aos_bacon-userdebug lp5.1
